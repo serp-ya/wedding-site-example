@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Ariston';
+    src: url('fonts/Ariston.eot');
+    src: url('fonts/Ariston.eot') format('embedded-opentype'),
+         url('fonts/Ariston.woff2') format('woff2'),
+         url('fonts/Ariston.woff') format('woff'),
+         url('fonts/Ariston.ttf') format('truetype'),
+         url('fonts/Ariston.svg#Ariston') format('svg');
+}
