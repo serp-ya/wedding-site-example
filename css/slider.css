@@ -695,7 +695,7 @@ Slider navigation
     width: 70px;
   }
   .cd-slider-nav a {
-    background: url(http://unlockdesizn.com/html/wedding/couple-heart/demo/images/home/home-nav.png) no-repeat 0 0;
+    background: url(https://unlockdesizn.com/html/wedding/couple-heart/demo/images/home/home-nav.png) no-repeat 0 0;
     background-position: center center;
     padding-top: 48px;
     font-size: 1.1rem;
@@ -707,7 +707,7 @@ Slider navigation
 }
 @media only screen and (min-width: 320px) {
   .cd-slider-nav a {
-    background: url(http://unlockdesizn.com/html/wedding/couple-heart/demo/images/home/home-nav.png) no-repeat 0 0;
+    background: url(https://unlockdesizn.com/html/wedding/couple-heart/demo/images/home/home-nav.png) no-repeat 0 0;
     background-position: center center;
   }
 }
@@ -761,8 +761,8 @@ Javascript disabled
   MaxCycle (Fullscreen Slideshow for use with jQuery Cycle Plugin)
   ----------------------------------------------------------------
   
-  Demo at: http://www.aaronvanderzwan.com/maxcycle/
-  Download and Info at: http://github.com/akv2/MaxCycle---jQuery-Plugin/
+  Demo at: https://www.aaronvanderzwan.com/maxcycle/
+  Download and Info at: https://github.com/akv2/MaxCycle---jQuery-Plugin/
   Copyright (c) 2007-2011 Aaron Vanderzwan
   Dual licensed under the MIT and GPL licenses.
   

@@ -692,8 +692,8 @@ ul#example li.seperator {
 
 @font-face {
     font-family: fontello;
-    src: url(http://unlockdesizn.com/html/wedding/couple-heart/demo/fonts/fontello.eot?52602240);
-    src: url(http://unlockdesizn.com/html/wedding/couple-heart/demo/fonts/fontello.eot?52602240) format("embedded-opentype"), url(http://unlockdesizn.com/html/wedding/couple-heart/demo/fonts/fontello.woff?52602240) format("woff"), url(http://unlockdesizn.com/html/wedding/couple-heart/demo/fonts/fontello.ttf?52602240) format("truetype"), url(http://unlockdesizn.com/html/wedding/couple-heart/demo/fonts/fontello.svg?52602240) format("svg");
+    src: url(https://unlockdesizn.com/html/wedding/couple-heart/demo/fonts/fontello.eot?52602240);
+    src: url(https://unlockdesizn.com/html/wedding/couple-heart/demo/fonts/fontello.eot?52602240) format("embedded-opentype"), url(https://unlockdesizn.com/html/wedding/couple-heart/demo/fonts/fontello.woff?52602240) format("woff"), url(https://unlockdesizn.com/html/wedding/couple-heart/demo/fonts/fontello.ttf?52602240) format("truetype"), url(https://unlockdesizn.com/html/wedding/couple-heart/demo/fonts/fontello.svg?52602240) format("svg");
     font-weight: 400;
     font-style: normal
 }
@@ -844,7 +844,7 @@ ul#example li.seperator {
     display: none
 }
 
-/* http://php.net/manual/en/function.date.php */
+/* https://php.net/manual/en/function.date.php */
 
 .xdsoft_datetimepicker {
     box-shadow: 0 5px 15px -5px rgba(0, 0, 0, .506);

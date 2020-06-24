@@ -301,7 +301,7 @@
                 },
                 {
                     title: 'Click for Google',
-                    url: 'http://google.com/',
+                    url: 'https://google.com/',
                     start: '2018-05-28'
                 }
             ]
@@ -380,7 +380,7 @@
                 },
                 {
                     title: 'Click for Google',
-                    url: 'http://google.com/',
+                    url: 'https://google.com/',
                     start: '2018-05-28'
                 }
             ]
